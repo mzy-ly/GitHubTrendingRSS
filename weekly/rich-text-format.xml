@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Rich Text Format Weekly Trending</title>
+    <description>Weekly Trending of Rich Text Format in GitHub</description>
+    <pubDate>Wed, 13 Aug 2025 01:46:39 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>artur-graniszewski/DLSS-Enabler</title>
+      <link>https://github.com/artur-graniszewski/DLSS-Enabler</link>
+      <description>&lt;p&gt;Simulate DLSS Upscaler and DLSS-G Frame Generation features on any DirectX 12 compatible GPU in any DirectX 12 game that supports DLSS2 and DLSS3 natively.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ckeditor/ckeditor5</title>
+      <link>https://github.com/ckeditor/ckeditor5</link>
+      <description>&lt;p&gt;Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nicehash/NiceHashMiner</title>
+      <link>https://github.com/nicehash/NiceHashMiner</link>
+      <description>&lt;p&gt;NiceHash Miner&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

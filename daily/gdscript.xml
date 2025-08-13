@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub GDScript Daily Trending</title>
+    <description>Daily Trending of GDScript in GitHub</description>
+    <pubDate>Wed, 13 Aug 2025 01:33:04 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>godotengine/godot-demo-projects</title>
+      <link>https://github.com/godotengine/godot-demo-projects</link>
+      <description>&lt;p&gt;Demonstration and Template Projects&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>godotneers/G.U.I.D.E</title>
+      <link>https://github.com/godotneers/G.U.I.D.E</link>
+      <description>&lt;p&gt;Godot Unified Input Detection Engine - A Godot extension to handle all input in a streamlined way&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>MewPurPur/GodSVG</title>
+      <link>https://github.com/MewPurPur/GodSVG</link>
+      <description>&lt;p&gt;A vector graphics application for structured SVG editing, available on all major desktop platforms and on web. Currently in late alpha.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ramokz/phantom-camera</title>
+      <link>https://github.com/ramokz/phantom-camera</link>
+      <description>&lt;p&gt;👻🎥 Control the movement and dynamically tween 2D &amp; 3D cameras. Built for Godot 4. Inspired by Cinemachine.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dialogic-godot/dialogic</title>
+      <link>https://github.com/dialogic-godot/dialogic</link>
+      <description>&lt;p&gt;💬 Create Dialogs, Visual Novels, RPGs, and manage Characters with Godot to create your Game!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nathanhoad/godot_dialogue_manager</title>
+      <link>https://github.com/nathanhoad/godot_dialogue_manager</link>
+      <description>&lt;p&gt;A powerful nonlinear dialogue system for Godot&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>gdquest-demos/godot-shaders</title>
+      <link>https://github.com/gdquest-demos/godot-shaders</link>
+      <description>&lt;p&gt;A large library of free and open-source shaders for the Godot game engine. Here, you&#39;ll get 2D and 3D shaders with playable demos.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>git-learning-game/oh-my-git</title>
+      <link>https://github.com/git-learning-game/oh-my-git</link>
+      <description>&lt;p&gt;An interactive Git learning game!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>GDQuest/learn-gdscript</title>
+      <link>https://github.com/GDQuest/learn-gdscript</link>
+      <description>&lt;p&gt;Learn Godot&#39;s GDScript programming language from zero, right in your browser, for free.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

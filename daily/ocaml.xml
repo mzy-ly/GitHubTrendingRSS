@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub OCaml Daily Trending</title>
+    <description>Daily Trending of OCaml in GitHub</description>
+    <pubDate>Wed, 13 Aug 2025 01:35:34 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>semgrep/semgrep</title>
+      <link>https://github.com/semgrep/semgrep</link>
+      <description>&lt;p&gt;Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ocaml/ocaml</title>
+      <link>https://github.com/ocaml/ocaml</link>
+      <description>&lt;p&gt;The core OCaml system: compilers, runtime system, base libraries&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>bcpierce00/unison</title>
+      <link>https://github.com/bcpierce00/unison</link>
+      <description>&lt;p&gt;Unison file synchronizer&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>terrateamio/terrateam</title>
+      <link>https://github.com/terrateamio/terrateam</link>
+      <description>&lt;p&gt;Terrateam is open-source GitOps infrastructure orchestration. It integrates with GitHub to automate Terraform, OpenTofu, CDKTF, Terragrunt, and Pulumi workflows through pull requests.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>geneweb/geneweb</title>
+      <link>https://github.com/geneweb/geneweb</link>
+      <description>&lt;p&gt;GeneWeb is a free (as in free speech) genealogy software with a web interface created by Daniel de Rauglaudre.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

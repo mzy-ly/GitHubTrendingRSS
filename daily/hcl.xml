@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub HCL Daily Trending</title>
+    <description>Daily Trending of HCL in GitHub</description>
+    <pubDate>Wed, 13 Aug 2025 01:33:33 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>zealvora/terraform-beginner-to-advanced-resource</title>
+      <link>https://github.com/zealvora/terraform-beginner-to-advanced-resource</link>
+      <description>&lt;p&gt;HashiCorp Certified Terraform Associate 2025&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>terraform-aws-modules/terraform-aws-lambda</title>
+      <link>https://github.com/terraform-aws-modules/terraform-aws-lambda</link>
+      <description>&lt;p&gt;Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>GoogleCloudPlatform/cloud-foundation-fabric</title>
+      <link>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric</link>
+      <description>&lt;p&gt;End-to-end modular samples and landing zones toolkit for Terraform on GCP.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>terraform-google-modules/terraform-example-foundation</title>
+      <link>https://github.com/terraform-google-modules/terraform-example-foundation</link>
+      <description>&lt;p&gt;Shows how the CFT modules can be composed to build a secure cloud foundation&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ChristianLempa/boilerplates</title>
+      <link>https://github.com/ChristianLempa/boilerplates</link>
+      <description>&lt;p&gt;This is my personal template collection. Here you&#39;ll find templates, and configurations for various tools, and technologies.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>antonputra/tutorials</title>
+      <link>https://github.com/antonputra/tutorials</link>
+      <description>&lt;p&gt;DevOps Tutorials&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>iam-veeramalla/ultimate-devops-project-aws</title>
+      <link>https://github.com/iam-veeramalla/ultimate-devops-project-aws</link>
+      <description>&lt;p&gt;End to End DevOps project&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>aws-ia/terraform-aws-eks-blueprints</title>
+      <link>https://github.com/aws-ia/terraform-aws-eks-blueprints</link>
+      <description>&lt;p&gt;Configure and deploy complete EKS clusters.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>GoogleCloudPlatform/cluster-toolkit</title>
+      <link>https://github.com/GoogleCloudPlatform/cluster-toolkit</link>
+      <description>&lt;p&gt;Cluster Toolkit is an open-source software offered by Google Cloud which makes it easy for customers to deploy AI/ML and HPC environments on Google Cloud.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>cloudposse/terraform-aws-ecs-container-definition</title>
+      <link>https://github.com/cloudposse/terraform-aws-ecs-container-definition</link>
+      <description>&lt;p&gt;Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>LinkedInLearning/advanced-terraform-3099246</title>
+      <link>https://github.com/LinkedInLearning/advanced-terraform-3099246</link>
+      <description>&lt;p&gt;This is a repo for the LinkedIn Learning course Advanced Terraform&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>cloudposse/terraform-aws-dynamic-subnets</title>
+      <link>https://github.com/cloudposse/terraform-aws-dynamic-subnets</link>
+      <description>&lt;p&gt;Terraform module for public and private subnets provisioning in existing VPC&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

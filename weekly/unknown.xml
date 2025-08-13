@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Unknown languages Weekly Trending</title>
+    <description>Weekly Trending of Unknown languages in GitHub</description>
+    <pubDate>Wed, 13 Aug 2025 01:40:48 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>FFmpeg/asm-lessons</title>
+      <link>https://github.com/FFmpeg/asm-lessons</link>
+      <description>&lt;p&gt;FFMPEG Assembly Language Lessons&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>binhnguyennus/awesome-scalability</title>
+      <link>https://github.com/binhnguyennus/awesome-scalability</link>
+      <description>&lt;p&gt;The Patterns of Scalable, Reliable, and Performant Large-Scale Systems&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>e2b-dev/awesome-ai-agents</title>
+      <link>https://github.com/e2b-dev/awesome-ai-agents</link>
+      <description>&lt;p&gt;A list of AI autonomous agents&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Avik-Jain/100-Days-Of-ML-Code</title>
+      <link>https://github.com/Avik-Jain/100-Days-Of-ML-Code</link>
+      <description>&lt;p&gt;100 Days of ML Coding&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>imthenachoman/How-To-Secure-A-Linux-Server</title>
+      <link>https://github.com/imthenachoman/How-To-Secure-A-Linux-Server</link>
+      <description>&lt;p&gt;An evolving how-to guide for securing a Linux server.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>khangich/machine-learning-interview</title>
+      <link>https://github.com/khangich/machine-learning-interview</link>
+      <description>&lt;p&gt;Machine Learning Interviews from FAANG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc. Blog: mlengineer.io.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>SimplifyJobs/Summer2026-Internships</title>
+      <link>https://github.com/SimplifyJobs/Summer2026-Internships</link>
+      <description>&lt;p&gt;Collection of Summer 2026 tech internships!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dipakkr/A-to-Z-Resources-for-Students</title>
+      <link>https://github.com/dipakkr/A-to-Z-Resources-for-Students</link>
+      <description>&lt;p&gt;✅ Curated list of resources for college students&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mlabonne/llm-course</title>
+      <link>https://github.com/mlabonne/llm-course</link>
+      <description>&lt;p&gt;Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>TianxingChen/Embodied-AI-Guide</title>
+      <link>https://github.com/TianxingChen/Embodied-AI-Guide</link>
+      <description>&lt;p&gt;[Lumina Embodied AI] 具身智能技术指南 Embodied-AI-Guide&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

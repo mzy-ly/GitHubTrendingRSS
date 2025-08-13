@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Nim Weekly Trending</title>
+    <description>Weekly Trending of Nim in GitHub</description>
+    <pubDate>Wed, 13 Aug 2025 01:45:18 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>nim-lang/packages</title>
+      <link>https://github.com/nim-lang/packages</link>
+      <description>&lt;p&gt;List of packages for Nimble&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>status-im/nimbus-eth2</title>
+      <link>https://github.com/status-im/nimbus-eth2</link>
+      <description>&lt;p&gt;Nim implementation of the Ethereum Beacon Chain&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

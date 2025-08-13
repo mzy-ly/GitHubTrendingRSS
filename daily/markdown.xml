@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Markdown Daily Trending</title>
+    <description>Daily Trending of Markdown in GitHub</description>
+    <pubDate>Wed, 13 Aug 2025 01:34:55 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>codecrafters-io/build-your-own-x</title>
+      <link>https://github.com/codecrafters-io/build-your-own-x</link>
+      <description>&lt;p&gt;Master programming by recreating your favorite technologies from scratch.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>labuladong/fucking-algorithm</title>
+      <link>https://github.com/labuladong/fucking-algorithm</link>
+      <description>&lt;p&gt;刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>OAI/OpenAPI-Specification</title>
+      <link>https://github.com/OAI/OpenAPI-Specification</link>
+      <description>&lt;p&gt;The OpenAPI Specification Repository&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>drknzz/GitHub-Achievements</title>
+      <link>https://github.com/drknzz/GitHub-Achievements</link>
+      <description>&lt;p&gt;🔥 A Complete List of GitHub Profile Badges and Achievements 🔥&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ethereum/ethereum-org-website</title>
+      <link>https://github.com/ethereum/ethereum-org-website</link>
+      <description>&lt;p&gt;Ethereum.org is a primary online resource for the Ethereum community.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>alexandresanlim/Badges4-README.md-Profile</title>
+      <link>https://github.com/alexandresanlim/Badges4-README.md-Profile</link>
+      <description>&lt;p&gt;Improve your README.md profile with these amazing badges.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>SAP/styleguides</title>
+      <link>https://github.com/SAP/styleguides</link>
+      <description>&lt;p&gt;This repository provides SAP style guides for coding and coding-related topics.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mdn/content</title>
+      <link>https://github.com/mdn/content</link>
+      <description>&lt;p&gt;The content behind MDN Web Docs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mdn/translated-content</title>
+      <link>https://github.com/mdn/translated-content</link>
+      <description>&lt;p&gt;The source repository of all translated content for MDN Web Docs&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>KaiserY/trpl-zh-cn</title>
+      <link>https://github.com/KaiserY/trpl-zh-cn</link>
+      <description>&lt;p&gt;Rust 程序设计语言（2024 edition 施工完毕）&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>adr/madr</title>
+      <link>https://github.com/adr/madr</link>
+      <description>&lt;p&gt;Markdown Architectural Decision Records&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>MicrosoftDocs/azure-docs</title>
+      <link>https://github.com/MicrosoftDocs/azure-docs</link>
+      <description>&lt;p&gt;Open source documentation of Microsoft Azure&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>microsoft/vscode-docs</title>
+      <link>https://github.com/microsoft/vscode-docs</link>
+      <description>&lt;p&gt;Public documentation for Visual Studio Code&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Evavic44/portfolio-ideas</title>
+      <link>https://github.com/Evavic44/portfolio-ideas</link>
+      <description>&lt;p&gt;A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>docker/docs</title>
+      <link>https://github.com/docker/docs</link>
+      <description>&lt;p&gt;Source repo for Docker&#39;s Documentation&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>jaywcjlove/linux-command</title>
+      <link>https://github.com/jaywcjlove/linux-command</link>
+      <description>&lt;p&gt;Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>JetBrains/intellij-sdk-docs</title>
+      <link>https://github.com/JetBrains/intellij-sdk-docs</link>
+      <description>&lt;p&gt;IntelliJ SDK Platform Documentation&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

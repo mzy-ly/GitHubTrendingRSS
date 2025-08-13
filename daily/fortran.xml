@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Fortran Daily Trending</title>
+    <description>Daily Trending of Fortran in GitHub</description>
+    <pubDate>Wed, 13 Aug 2025 01:32:58 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>cp2k/cp2k</title>
+      <link>https://github.com/cp2k/cp2k</link>
+      <description>&lt;p&gt;Quantum chemistry and solid state physics software package&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>firemodels/fds</title>
+      <link>https://github.com/firemodels/fds</link>
+      <description>&lt;p&gt;Fire Dynamics Simulator&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>earth-system-radiation/rte-rrtmgp</title>
+      <link>https://github.com/earth-system-radiation/rte-rrtmgp</link>
+      <description>&lt;p&gt;RTE+RRTMGP is a set of codes for computing radiative fluxes in planetary atmospheres.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>OpenFAST/openfast</title>
+      <link>https://github.com/OpenFAST/openfast</link>
+      <description>&lt;p&gt;Main repository for the NREL-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>esmf-org/esmf</title>
+      <link>https://github.com/esmf-org/esmf</link>
+      <description>&lt;p&gt;The Earth System Modeling Framework (ESMF) is a suite of software tools for developing high-performance, multi-component Earth science modeling applications.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>GEOS-ESM/MAPL</title>
+      <link>https://github.com/GEOS-ESM/MAPL</link>
+      <description>&lt;p&gt;MAPL is a foundation layer of the GEOS architecture, whose original purpose is to supplement the Earth System Modeling Framework (ESMF)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>grimme-lab/xtb</title>
+      <link>https://github.com/grimme-lab/xtb</link>
+      <description>&lt;p&gt;Semiempirical Extended Tight-Binding Program Package&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>E3SM-Project/E3SM</title>
+      <link>https://github.com/E3SM-Project/E3SM</link>
+      <description>&lt;p&gt;Energy Exascale Earth System Model source code. NOTE: use &quot;maint&quot; branches for your work. Head of master is not validated.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

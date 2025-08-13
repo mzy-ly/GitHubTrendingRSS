@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Gherkin Weekly Trending</title>
+    <description>Weekly Trending of Gherkin in GitHub</description>
+    <pubDate>Wed, 13 Aug 2025 01:43:14 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>serverlessworkflow/specification</title>
+      <link>https://github.com/serverlessworkflow/specification</link>
+      <description>&lt;p&gt;Contains the official specification for the Serverless Workflow Domain Specific Language. It provides detailed guidelines and standards for defining, executing, and managing workflows in serverless environments, ensuring consistency and interoperability across implementations.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Unknown languages Daily Trending</title>
+    <description>Daily Trending of Unknown languages in GitHub</description>
+    <pubDate>Wed, 13 Aug 2025 01:30:42 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>x1xhlol/system-prompts-and-models-of-ai-tools</title>
+      <link>https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools</link>
+      <description>&lt;p&gt;FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely &amp; Orchids.app (And other Open Sourced) System Prompts, Tools &amp; AI Models.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>imthenachoman/How-To-Secure-A-Linux-Server</title>
+      <link>https://github.com/imthenachoman/How-To-Secure-A-Linux-Server</link>
+      <description>&lt;p&gt;An evolving how-to guide for securing a Linux server.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mlabonne/llm-course</title>
+      <link>https://github.com/mlabonne/llm-course</link>
+      <description>&lt;p&gt;Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>practical-tutorials/project-based-learning</title>
+      <link>https://github.com/practical-tutorials/project-based-learning</link>
+      <description>&lt;p&gt;Curated list of project-based tutorials&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>binhnguyennus/awesome-scalability</title>
+      <link>https://github.com/binhnguyennus/awesome-scalability</link>
+      <description>&lt;p&gt;The Patterns of Scalable, Reliable, and Performant Large-Scale Systems&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>zhuima/awesome-cloudflare</title>
+      <link>https://github.com/zhuima/awesome-cloudflare</link>
+      <description>&lt;p&gt;⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>CVEProject/cvelistV5</title>
+      <link>https://github.com/CVEProject/cvelistV5</link>
+      <description>&lt;p&gt;CVE cache of the official CVE List in CVE JSON 5 format&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>ruanyf/weekly</title>
+      <link>https://github.com/ruanyf/weekly</link>
+      <description>&lt;p&gt;科技爱好者周刊，每周五发布&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Moriafly/SaltPlayerSource</title>
+      <link>https://github.com/Moriafly/SaltPlayerSource</link>
+      <description>&lt;p&gt;Salt Player (A local music player trusted and chosen by hundreds of thousands of users) for Android Release, Feedback.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>anderspitman/awesome-tunneling</title>
+      <link>https://github.com/anderspitman/awesome-tunneling</link>
+      <description>&lt;p&gt;List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

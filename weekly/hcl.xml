@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub HCL Weekly Trending</title>
+    <description>Weekly Trending of HCL in GitHub</description>
+    <pubDate>Wed, 13 Aug 2025 01:43:36 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>nce/oci-free-cloud-k8s</title>
+      <link>https://github.com/nce/oci-free-cloud-k8s</link>
+      <description>&lt;p&gt;always free kubernetes on oracle cloud&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>terraform-google-modules/terraform-google-kubernetes-engine</title>
+      <link>https://github.com/terraform-google-modules/terraform-google-kubernetes-engine</link>
+      <description>&lt;p&gt;Configures opinionated GKE clusters&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>iam-veeramalla/ultimate-devops-project-aws</title>
+      <link>https://github.com/iam-veeramalla/ultimate-devops-project-aws</link>
+      <description>&lt;p&gt;End to End DevOps project&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>aws-samples/eks-workshop-v2</title>
+      <link>https://github.com/aws-samples/eks-workshop-v2</link>
+      <description>&lt;p&gt;Hands-on labs for Amazon EKS&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>terraform-aws-modules/terraform-aws-iam</title>
+      <link>https://github.com/terraform-aws-modules/terraform-aws-iam</link>
+      <description>&lt;p&gt;Terraform module to create AWS IAM resources 🇺🇦&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>GoogleCloudPlatform/cloud-foundation-fabric</title>
+      <link>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric</link>
+      <description>&lt;p&gt;End-to-end modular samples and landing zones toolkit for Terraform on GCP.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>terraform-aws-modules/terraform-aws-lambda</title>
+      <link>https://github.com/terraform-aws-modules/terraform-aws-lambda</link>
+      <description>&lt;p&gt;Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>terraform-aws-modules/terraform-aws-vpc</title>
+      <link>https://github.com/terraform-aws-modules/terraform-aws-vpc</link>
+      <description>&lt;p&gt;Terraform module to create AWS VPC resources 🇺🇦&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

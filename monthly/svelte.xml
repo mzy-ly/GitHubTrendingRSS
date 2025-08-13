@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Svelte Monthly Trending</title>
+    <description>Monthly Trending of Svelte in GitHub</description>
+    <pubDate>Wed, 13 Aug 2025 01:59:25 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Abdenasser/neohtop</title>
+      <link>https://github.com/Abdenasser/neohtop</link>
+      <description>&lt;p&gt;💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri &amp; Svelte)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>saadeghi/daisyui</title>
+      <link>https://github.com/saadeghi/daisyui</link>
+      <description>&lt;p&gt;🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>taikoxyz/taiko-mono</title>
+      <link>https://github.com/taikoxyz/taiko-mono</link>
+      <description>&lt;p&gt;Taiko Alethia based rollup protocol 🥁&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dbgate/dbgate</title>
+      <link>https://github.com/dbgate/dbgate</link>
+      <description>&lt;p&gt;Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Figma-Linux/figma-linux</title>
+      <link>https://github.com/Figma-Linux/figma-linux</link>
+      <description>&lt;p&gt;Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>kagisearch/kite-public</title>
+      <link>https://github.com/kagisearch/kite-public</link>
+      <description>&lt;p&gt;Open source repository for Kite, news app by Kagi.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>vkurko/calendar</title>
+      <link>https://github.com/vkurko/calendar</link>
+      <description>&lt;p&gt;Full-sized drag &amp; drop JavaScript event calendar with resource &amp; timeline views&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>mathesar-foundation/mathesar</title>
+      <link>https://github.com/mathesar-foundation/mathesar</link>
+      <description>&lt;p&gt;An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly—100% open source and self hosted, with native Postgres access control.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>rishikanthc/Scriberr</title>
+      <link>https://github.com/rishikanthc/Scriberr</link>
+      <description>&lt;p&gt;Self-hosted AI audio transcription&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>oMaN-Rod/palworld-save-pal</title>
+      <link>https://github.com/oMaN-Rod/palworld-save-pal</link>
+      <description>&lt;p&gt;Palworld Save Pal is a save file editor for Palworld. Quickly filter and edit your Pals&#39;. Edit your Player stats and inventory. Steam and Gamepass support.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>vercel/ai-chatbot-svelte</title>
+      <link>https://github.com/vercel/ai-chatbot-svelte</link>
+      <description>&lt;p&gt;A full-featured, hackable SvelteKit AI chatbot built by Vercel&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pluja/whishper</title>
+      <link>https://github.com/pluja/whishper</link>
+      <description>&lt;p&gt;Transcribe any audio to text, translate and edit subtitles 100% locally with a web UI. Powered by whisper models!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>CriticalMoments/CMSaasStarter</title>
+      <link>https://github.com/CriticalMoments/CMSaasStarter</link>
+      <description>&lt;p&gt;A modern SaaS template/boilerplate built with SvelteKit, Tailwind, and Supabase. Includes marketing page, blog, subscriptions, auth, user dashboard, user settings, pricing page, and more.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>RockinChaos/Shiru</title>
+      <link>https://github.com/RockinChaos/Shiru</link>
+      <description>&lt;p&gt;BitTorrent streaming software with no paws in the way—watch anime in real-time, no waiting for downloads!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>imputnet/cobalt</title>
+      <link>https://github.com/imputnet/cobalt</link>
+      <description>&lt;p&gt;best way to save what you love&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>SOH69/mm_radio</title>
+      <link>https://github.com/SOH69/mm_radio</link>
+      <description>&lt;p&gt;A Radio Script for Fivem Server&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dora-team/dora.dev</title>
+      <link>https://github.com/dora-team/dora.dev</link>
+      <description>&lt;p&gt;Public-facing knowledge site: https://dora.dev&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>appwrite/website</title>
+      <link>https://github.com/appwrite/website</link>
+      <description>&lt;p&gt;The Appwrite website, docs and blog 🏠&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nmelhado/league-page</title>
+      <link>https://github.com/nmelhado/league-page</link>
+      <description>&lt;p&gt;Create a custom league page for your Sleeper fantasy football league!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>satisfactorymodding/SatisfactoryModManager</title>
+      <link>https://github.com/satisfactorymodding/SatisfactoryModManager</link>
+      <description>&lt;p&gt;A mod manager for easy installation of mods and modloader for Satisfactory&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Svelte Daily Trending</title>
+    <description>Daily Trending of Svelte in GitHub</description>
+    <pubDate>Wed, 13 Aug 2025 01:39:43 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>imputnet/cobalt</title>
+      <link>https://github.com/imputnet/cobalt</link>
+      <description>&lt;p&gt;best way to save what you love&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>dbgate/dbgate</title>
+      <link>https://github.com/dbgate/dbgate</link>
+      <description>&lt;p&gt;Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>marcusolsson/obsidian-projects</title>
+      <link>https://github.com/marcusolsson/obsidian-projects</link>
+      <description>&lt;p&gt;Plain text project planning in Obsidian&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>Abdenasser/neohtop</title>
+      <link>https://github.com/Abdenasser/neohtop</link>
+      <description>&lt;p&gt;💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri &amp; Svelte)&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>RockinChaos/Shiru</title>
+      <link>https://github.com/RockinChaos/Shiru</link>
+      <description>&lt;p&gt;BitTorrent streaming software with no paws in the way—watch anime in real-time, no waiting for downloads!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>basharovV/musicat</title>
+      <link>https://github.com/basharovV/musicat</link>
+      <description>&lt;p&gt;A sleek desktop music player and tagger for offline music 🪕. With gapless playback, smart playlists, and a map view! Built with Svelte and Tauri&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>sveltejs/svelte.dev</title>
+      <link>https://github.com/sveltejs/svelte.dev</link>
+      <description>&lt;p&gt;The Svelte omnisite&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>taikoxyz/taiko-mono</title>
+      <link>https://github.com/taikoxyz/taiko-mono</link>
+      <description>&lt;p&gt;Taiko Alethia based rollup protocol 🥁&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>vkurko/calendar</title>
+      <link>https://github.com/vkurko/calendar</link>
+      <description>&lt;p&gt;Full-sized drag &amp; drop JavaScript event calendar with resource &amp; timeline views&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>zerebos/ghostty-config</title>
+      <link>https://github.com/zerebos/ghostty-config</link>
+      <description>&lt;p&gt;A beautiful config generator for Ghostty terminal.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>BetterDiscord/Installer</title>
+      <link>https://github.com/BetterDiscord/Installer</link>
+      <description>&lt;p&gt;A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>satisfactorymodding/SatisfactoryModManager</title>
+      <link>https://github.com/satisfactorymodding/SatisfactoryModManager</link>
+      <description>&lt;p&gt;A mod manager for easy installation of mods and modloader for Satisfactory&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>classroomio/classroomio</title>
+      <link>https://github.com/classroomio/classroomio</link>
+      <description>&lt;p&gt;The Open Source Education Platform. A Simple and Beautiful Alternative to Moodle LMS, EdX, Thinkific and Teachable&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>nmelhado/league-page</title>
+      <link>https://github.com/nmelhado/league-page</link>
+      <description>&lt;p&gt;Create a custom league page for your Sleeper fantasy football league!&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>CriticalMoments/CMSaasStarter</title>
+      <link>https://github.com/CriticalMoments/CMSaasStarter</link>
+      <description>&lt;p&gt;A modern SaaS template/boilerplate built with SvelteKit, Tailwind, and Supabase. Includes marketing page, blog, subscriptions, auth, user dashboard, user settings, pricing page, and more.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>kagisearch/kite-public</title>
+      <link>https://github.com/kagisearch/kite-public</link>
+      <description>&lt;p&gt;Open source repository for Kite, news app by Kagi.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>seanmorley15/AdventureLog</title>
+      <link>https://github.com/seanmorley15/AdventureLog</link>
+      <description>&lt;p&gt;Self-hostable travel tracker and trip planner.&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>runebookai/tome</title>
+      <link>https://github.com/runebookai/tome</link>
+      <description>&lt;p&gt;a magical LLM desktop client that makes it easy for *anyone* to use LLMs and MCP&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Squirrel Daily Trending</title>
+    <description>Daily Trending of Squirrel in GitHub</description>
+    <pubDate>Wed, 13 Aug 2025 01:39:35 GMT</pubDate>
+    <link>http://mshibanami.github.io/GitHubTrendingRSS</link>
+    
+    <item>
+      <title>Battle-Brothers-Legends/Legends-public</title>
+      <link>https://github.com/Battle-Brothers-Legends/Legends-public</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>smilz0/Left4Bots</title>
+      <link>https://github.com/smilz0/Left4Bots</link>
+      <description>&lt;p&gt;Improvements for the L4D2 survivor bots&lt;/p&gt;&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
